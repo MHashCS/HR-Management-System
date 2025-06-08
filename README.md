@@ -50,7 +50,7 @@ HR_MANAGEMENT_SYSTEM_final/
 
 1. Clone this repository:
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/MHashCS/HR-Management-System
    ```
 
 2. Open the project in NetBeans IDE
